@@ -1,4 +1,9 @@
 <template>
-    <h1 class="bg-red-700  text-black ">HAIII!!!</h1>
-    
+
 </template>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+</style>

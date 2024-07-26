@@ -12,7 +12,13 @@ export default defineNuxtConfig({
           name: "description",
           content: "belajar nuxt",
         }
-      ]
+      ],
+      link: [
+        {
+          rel: 'stylesheet',
+          href:'https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap',
+        },
+      ],
     }
   }
 

@@ -1,4 +1,10 @@
 <template>
+    <Navbar />
+    <Hero />
+      <Storya />
+      <Ottica />
+      <Visita />
+      <Footer />
 
 </template>
 

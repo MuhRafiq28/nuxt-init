@@ -16,16 +16,4 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-
-
-
-
-.text h5{
-    font-family: inter;
-    font-weight: 400;
-    width: 476px;
-    height: 320px;
-}
-
-
 </style>

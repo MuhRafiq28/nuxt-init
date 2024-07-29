@@ -1,10 +1,14 @@
 <template>
+  <div class="w-full justify-center inline-flex">
+    <div class="w-[1440px]">
     <Navbar />
     <Hero />
       <Storya />
       <Ottica />
       <Visita />
       <Footer />
+    </div>
+    </div>
 
 </template>
 
